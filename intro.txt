@@ -1,1 +1,2 @@
 Questa è la prima riga di un file di testo
+Questa è una seconda linea
